@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\B09S105est\\OneDrive - UPB\\Desktop\\Adri\u00E1n Blanco\\1.InicioVisualStudio\\",
+  "WorkspaceRootPath": "C:\\Users\\B09S112est\\Desktop\\Adri\u00E1n Blanco\\AdrianBlancoFP\\1.InicioVisualStudio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E1DD31E-8CC9-4B04-A75D-6969DCC8ECE5}|1.InicioVisualStudio\\1.InicioVisualStudio.csproj|c:\\users\\b09s105est\\onedrive - upb\\desktop\\adri\u00E1n blanco\\1.iniciovisualstudio\\1.iniciovisualstudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E1DD31E-8CC9-4B04-A75D-6969DCC8ECE5}|1.InicioVisualStudio\\1.InicioVisualStudio.csproj|c:\\users\\b09s112est\\desktop\\adri\u00E1n blanco\\adrianblancofp\\1.iniciovisualstudio\\1.iniciovisualstudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E1DD31E-8CC9-4B04-A75D-6969DCC8ECE5}|1.InicioVisualStudio\\1.InicioVisualStudio.csproj|solutionrelative:1.iniciovisualstudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,18 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\B09S105est\\OneDrive - UPB\\Desktop\\Adri\u00E1n Blanco\\1.InicioVisualStudio\\1.InicioVisualStudio\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\B09S112est\\Desktop\\Adri\u00E1n Blanco\\AdrianBlancoFP\\1.InicioVisualStudio\\1.InicioVisualStudio\\Program.cs",
               "RelativeDocumentMoniker": "1.InicioVisualStudio\\Program.cs",
-              "ToolTip": "C:\\Users\\B09S105est\\OneDrive - UPB\\Desktop\\Adri\u00E1n Blanco\\1.InicioVisualStudio\\1.InicioVisualStudio\\Program.cs",
+              "ToolTip": "C:\\Users\\B09S112est\\Desktop\\Adri\u00E1n Blanco\\AdrianBlancoFP\\1.InicioVisualStudio\\1.InicioVisualStudio\\Program.cs",
               "RelativeToolTip": "1.InicioVisualStudio\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-25T19:50:24.766Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

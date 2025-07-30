@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.Write("Hola, Adrián Blanco\n");
+            Console.Write("\tBienvenido a la clase de programación");
         }
     }
 }
