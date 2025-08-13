@@ -13,3 +13,18 @@ C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\3.Condicion
 C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\3.Condicionales\3.Condicionales\obj\Debug\net8.0\3.Condicionales.pdb
 C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\3.Condicionales\3.Condicionales\obj\Debug\net8.0\3.Condicionales.genruntimeconfig.cache
 C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\3.Condicionales\3.Condicionales\obj\Debug\net8.0\ref\3.Condicionales.dll
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\3.Condicionales\3.Condicionales\bin\Debug\net8.0\3.Condicionales.exe
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\3.Condicionales\3.Condicionales\bin\Debug\net8.0\3.Condicionales.deps.json
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\3.Condicionales\3.Condicionales\bin\Debug\net8.0\3.Condicionales.runtimeconfig.json
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\3.Condicionales\3.Condicionales\bin\Debug\net8.0\3.Condicionales.dll
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\3.Condicionales\3.Condicionales\bin\Debug\net8.0\3.Condicionales.pdb
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\3.Condicionales\3.Condicionales\obj\Debug\net8.0\3.Condicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\3.Condicionales\3.Condicionales\obj\Debug\net8.0\3.Condicionales.AssemblyInfoInputs.cache
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\3.Condicionales\3.Condicionales\obj\Debug\net8.0\3.Condicionales.AssemblyInfo.cs
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\3.Condicionales\3.Condicionales\obj\Debug\net8.0\3.Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\3.Condicionales\3.Condicionales\obj\Debug\net8.0\3.Condicionales.sourcelink.json
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\3.Condicionales\3.Condicionales\obj\Debug\net8.0\3.Condicionales.dll
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\3.Condicionales\3.Condicionales\obj\Debug\net8.0\refint\3.Condicionales.dll
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\3.Condicionales\3.Condicionales\obj\Debug\net8.0\3.Condicionales.pdb
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\3.Condicionales\3.Condicionales\obj\Debug\net8.0\3.Condicionales.genruntimeconfig.cache
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\3.Condicionales\3.Condicionales\obj\Debug\net8.0\ref\3.Condicionales.dll
