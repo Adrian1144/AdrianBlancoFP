@@ -8,7 +8,7 @@ namespace _5.CondicionalAnidado
         {
             //CONDICIONAL ANIDADO
             /*1. Diseñar un algoritmo que lea tres números A, B, C y visualice en
-              pantalla el valor más grande. El usuario debe ingresar tres valores diferentes*/
+              pantalla el valor más grande. El usuario debe ingresar tres valores diferentes
             int num1 = 0;
             int num2 = 0;
             int num3 = 0;
@@ -43,8 +43,39 @@ namespace _5.CondicionalAnidado
                 else
                 {
                     Console.WriteLine($"Número 3 : {num1}, es el mayor");
-                }
+                }*/
+            int num1 = 0;
+            int num2 = 0;
+            int num3 = 0;
+
+            Console.WriteLine("Ingrese el número 1:");
+            num1 = Int32.Parse(Console.ReadLine());
+
+            Console.WriteLine("Ingrese el número 2:");
+            num2 = Int32.Parse(Console.ReadLine());
+
+            Console.WriteLine("Ingrese el número 3:");
+            num3 = Int32.Parse(Console.ReadLine());
+
+            float promedio = (num1 + num2 + num3) / 3;
+
+            if (promedio >= 9.5 && promedio <= 10)
+            {
+                Console.WriteLine("Excelente.");
             }
+            else if (promedio >= 8.5 && promedio <= 9.4)
+            {
+                Console.WriteLine("Muy bien.");
+            }
+            else if (promedio >= 7.5 && promedio <= 8.4)
+            {
+                Console.WriteLine("Bien.");
+            }
+            else
+            {
+                Console.WriteLine("Error");
+            }
+        }
         }
     }
 }

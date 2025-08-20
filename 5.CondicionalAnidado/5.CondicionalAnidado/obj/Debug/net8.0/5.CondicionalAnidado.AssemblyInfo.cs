@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("5.CondicionalAnidado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65d21300074152bd5e3a684751c7d38bbab1b1aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b9c63047cf9c764e9297827d5d6afd38b85cfa8")]
 [assembly: System.Reflection.AssemblyProductAttribute("5.CondicionalAnidado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("5.CondicionalAnidado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
