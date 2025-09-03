@@ -1,0 +1,15 @@
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\13.While\13.While\bin\Debug\net8.0\13.While.exe
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\13.While\13.While\bin\Debug\net8.0\13.While.deps.json
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\13.While\13.While\bin\Debug\net8.0\13.While.runtimeconfig.json
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\13.While\13.While\bin\Debug\net8.0\13.While.dll
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\13.While\13.While\bin\Debug\net8.0\13.While.pdb
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\13.While\13.While\obj\Debug\net8.0\13.While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\13.While\13.While\obj\Debug\net8.0\13.While.AssemblyInfoInputs.cache
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\13.While\13.While\obj\Debug\net8.0\13.While.AssemblyInfo.cs
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\13.While\13.While\obj\Debug\net8.0\13.While.csproj.CoreCompileInputs.cache
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\13.While\13.While\obj\Debug\net8.0\13.While.sourcelink.json
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\13.While\13.While\obj\Debug\net8.0\13.While.dll
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\13.While\13.While\obj\Debug\net8.0\refint\13.While.dll
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\13.While\13.While\obj\Debug\net8.0\13.While.pdb
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\13.While\13.While\obj\Debug\net8.0\13.While.genruntimeconfig.cache
+C:\Users\B09S112est\Desktop\Adrián Blanco\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\13.While\13.While\obj\Debug\net8.0\ref\13.While.dll
