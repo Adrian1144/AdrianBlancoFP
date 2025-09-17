@@ -1,0 +1,15 @@
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\22.Vectores\22.Vectores\bin\Debug\net8.0\22.Vectores.exe
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\22.Vectores\22.Vectores\bin\Debug\net8.0\22.Vectores.deps.json
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\22.Vectores\22.Vectores\bin\Debug\net8.0\22.Vectores.runtimeconfig.json
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\22.Vectores\22.Vectores\bin\Debug\net8.0\22.Vectores.dll
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\22.Vectores\22.Vectores\bin\Debug\net8.0\22.Vectores.pdb
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\22.Vectores\22.Vectores\obj\Debug\net8.0\22.Vectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\22.Vectores\22.Vectores\obj\Debug\net8.0\22.Vectores.AssemblyInfoInputs.cache
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\22.Vectores\22.Vectores\obj\Debug\net8.0\22.Vectores.AssemblyInfo.cs
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\22.Vectores\22.Vectores\obj\Debug\net8.0\22.Vectores.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\22.Vectores\22.Vectores\obj\Debug\net8.0\22.Vectores.sourcelink.json
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\22.Vectores\22.Vectores\obj\Debug\net8.0\22.Vectores.dll
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\22.Vectores\22.Vectores\obj\Debug\net8.0\refint\22.Vectores.dll
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\22.Vectores\22.Vectores\obj\Debug\net8.0\22.Vectores.pdb
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\22.Vectores\22.Vectores\obj\Debug\net8.0\22.Vectores.genruntimeconfig.cache
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\22.Vectores\22.Vectores\obj\Debug\net8.0\ref\22.Vectores.dll
