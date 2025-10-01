@@ -1,0 +1,15 @@
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\25.Matrices\25.Matrices\bin\Debug\net8.0\25.Matrices.exe
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\25.Matrices\25.Matrices\bin\Debug\net8.0\25.Matrices.deps.json
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\25.Matrices\25.Matrices\bin\Debug\net8.0\25.Matrices.runtimeconfig.json
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\25.Matrices\25.Matrices\bin\Debug\net8.0\25.Matrices.dll
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\25.Matrices\25.Matrices\bin\Debug\net8.0\25.Matrices.pdb
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\25.Matrices\25.Matrices\obj\Debug\net8.0\25.Matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\25.Matrices\25.Matrices\obj\Debug\net8.0\25.Matrices.AssemblyInfoInputs.cache
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\25.Matrices\25.Matrices\obj\Debug\net8.0\25.Matrices.AssemblyInfo.cs
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\25.Matrices\25.Matrices\obj\Debug\net8.0\25.Matrices.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\25.Matrices\25.Matrices\obj\Debug\net8.0\25.Matrices.sourcelink.json
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\25.Matrices\25.Matrices\obj\Debug\net8.0\25.Matrices.dll
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\25.Matrices\25.Matrices\obj\Debug\net8.0\refint\25.Matrices.dll
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\25.Matrices\25.Matrices\obj\Debug\net8.0\25.Matrices.pdb
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\25.Matrices\25.Matrices\obj\Debug\net8.0\25.Matrices.genruntimeconfig.cache
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\25.Matrices\25.Matrices\obj\Debug\net8.0\ref\25.Matrices.dll
