@@ -1,0 +1,15 @@
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\12.While\12.While\bin\Debug\net8.0\12.While.exe
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\12.While\12.While\bin\Debug\net8.0\12.While.deps.json
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\12.While\12.While\bin\Debug\net8.0\12.While.runtimeconfig.json
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\12.While\12.While\bin\Debug\net8.0\12.While.dll
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\12.While\12.While\bin\Debug\net8.0\12.While.pdb
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\12.While\12.While\obj\Debug\net8.0\12.While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\12.While\12.While\obj\Debug\net8.0\12.While.AssemblyInfoInputs.cache
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\12.While\12.While\obj\Debug\net8.0\12.While.AssemblyInfo.cs
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\12.While\12.While\obj\Debug\net8.0\12.While.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\12.While\12.While\obj\Debug\net8.0\12.While.sourcelink.json
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\12.While\12.While\obj\Debug\net8.0\12.While.dll
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\12.While\12.While\obj\Debug\net8.0\refint\12.While.dll
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\12.While\12.While\obj\Debug\net8.0\12.While.pdb
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\12.While\12.While\obj\Debug\net8.0\12.While.genruntimeconfig.cache
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\12.While\12.While\obj\Debug\net8.0\ref\12.While.dll
