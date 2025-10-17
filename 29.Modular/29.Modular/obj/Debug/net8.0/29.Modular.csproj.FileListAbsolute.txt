@@ -1,0 +1,15 @@
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\29.Modular\29.Modular\bin\Debug\net8.0\29.Modular.exe
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\29.Modular\29.Modular\bin\Debug\net8.0\29.Modular.deps.json
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\29.Modular\29.Modular\bin\Debug\net8.0\29.Modular.runtimeconfig.json
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\29.Modular\29.Modular\bin\Debug\net8.0\29.Modular.dll
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\29.Modular\29.Modular\bin\Debug\net8.0\29.Modular.pdb
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\29.Modular\29.Modular\obj\Debug\net8.0\29.Modular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\29.Modular\29.Modular\obj\Debug\net8.0\29.Modular.AssemblyInfoInputs.cache
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\29.Modular\29.Modular\obj\Debug\net8.0\29.Modular.AssemblyInfo.cs
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\29.Modular\29.Modular\obj\Debug\net8.0\29.Modular.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\29.Modular\29.Modular\obj\Debug\net8.0\29.Modular.sourcelink.json
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\29.Modular\29.Modular\obj\Debug\net8.0\29.Modular.dll
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\29.Modular\29.Modular\obj\Debug\net8.0\refint\29.Modular.dll
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\29.Modular\29.Modular\obj\Debug\net8.0\29.Modular.pdb
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\29.Modular\29.Modular\obj\Debug\net8.0\29.Modular.genruntimeconfig.cache
+C:\Users\adria\Documents\Fundamentos en Programación\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\AdrianBlancoFP\29.Modular\29.Modular\obj\Debug\net8.0\ref\29.Modular.dll
